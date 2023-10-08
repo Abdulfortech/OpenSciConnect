@@ -100,11 +100,11 @@ communication between project creators and skilled contributors, thus fostering 
 
 ##Tools
 
--front end [ *Html *Css *Javascript *Bootstrap]
--Back end [*PHP *MYSQL]
--Other Tools [*PHP Mailer *TWIG *BOOTSRAP NOTIFY *FONT AWESOME *TALKJS]
--Hosting [HOSTINGER]
--Domain [PorkBun (provided by NASA)]
+- Front-end: Html, Css, Javascript, Bootstrap
+- Back-end: PHP, MYSQL
+- Other Tools: PHPMailer, TWIG, BOOTSRAP NOTIFY, FONT AWESOME, TALKJS]
+- Hosting: HOSTINGER
+- Domain : PorkBun (provided by NASA)
 
-##Hosted Solution
-    You can access our solution on the following link 
+## Hosted Solution
+    You can visit our solution via the following link [OpenSciConnect](https://opensciconnect.co)
