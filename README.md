@@ -98,7 +98,7 @@ communication between project creators and skilled contributors, thus fostering 
 
 
 
-##Tools
+## Tools
 
 - Front-end: Html, Css, Javascript, Bootstrap
 - Back-end: PHP, MYSQL
@@ -107,4 +107,4 @@ communication between project creators and skilled contributors, thus fostering 
 - Domain : PorkBun (provided by NASA)
 
 ## Hosted Solution
-    You can visit our solution via the following link [OpenSciConnect](https://opensciconnect.co)
+    You can visit our solution via the following link [OpenSciConnect](www.opensciconnect.co)
